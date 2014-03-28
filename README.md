@@ -4,4 +4,4 @@ This repository is the readin sketchbook of @brice and @fbentz. We will share he
 
 Feel free to share our experiences and comment it.
 
-* [Week 1 : Threads and Locks](day1/README.md) In progress
+* [Week 1 : Threads and Locks](1-ThreadsAndLocks/README.md) In progress
